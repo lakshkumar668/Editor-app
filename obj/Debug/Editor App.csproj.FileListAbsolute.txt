@@ -1,0 +1,10 @@
+E:\semester Final\VP\Labs\LAB\Editor App\bin\Debug\Editor App.exe.config
+E:\semester Final\VP\Labs\LAB\Editor App\bin\Debug\Editor App.exe
+E:\semester Final\VP\Labs\LAB\Editor App\bin\Debug\Editor App.pdb
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor App.csprojAssemblyReference.cache
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor_App.Form1.resources
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor_App.Properties.Resources.resources
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor App.csproj.GenerateResource.cache
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor App.csproj.CoreCompileInputs.cache
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor App.exe
+E:\semester Final\VP\Labs\LAB\Editor App\obj\Debug\Editor App.pdb
